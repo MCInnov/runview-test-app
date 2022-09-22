@@ -1,4 +1,7 @@
 # runview-test-app
+Projet pour entretien technique.
+
+Utilisation de Pinia, tailwindcss, Vue 3, Ag-Grid
 
 ## Project setup
 ```
